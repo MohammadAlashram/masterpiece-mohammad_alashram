@@ -1,0 +1,69 @@
+.chart-report-card .report-main-icon,
+.report-card .report-main-icon {
+    font-size: 28px;
+    width: 64px;
+    height: 64px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 50%
+}
+
+.icon-dual-2 {
+    color: #7081b9;
+    fill: rgba(112, 129, 185, .25)
+}
+
+.icon-dual-primary {
+    color: #506ee4;
+    fill: rgba(80, 110, 228, .25)
+}
+
+.icon-dual-secondary {
+    color: #41cbd8;
+    fill: rgba(65, 203, 216, .25)
+}
+
+.icon-dual-success {
+    color: #2ddab5;
+    fill: rgba(45, 218, 181, .25)
+}
+
+.icon-dual-warning {
+    color: #ff9f43;
+    fill: rgba(255, 159, 67, .25)
+}
+
+.icon-dual-info {
+    color: #9ba7ca;
+    fill: rgba(155, 167, 202, .25)
+}
+
+.icon-dual-danger {
+    color: #ef4d56;
+    fill: rgba(239, 77, 86, .25)
+}
+
+.icon-dual-pink {
+    color: #fd3c97;
+    fill: rgba(253, 60, 151, .25)
+}
+
+.icon-dual-purple {
+    color: #6d81f5;
+    fill: rgba(109, 129, 245, .25)
+}
+
+.icon-dual-classic {
+    color: #0f4069;
+    fill: rgba(15, 64, 105, .25)
+}
+
+.icon-dual-dark {
+    color: #000444;
+    fill: rgba(0, 4, 68, .25)
+}
+
+.bg-light-alt {
+    background-color: #fbfbfb!important;
+}

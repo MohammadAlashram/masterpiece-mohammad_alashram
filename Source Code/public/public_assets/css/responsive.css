@@ -1,0 +1,617 @@
+/* Normal desktop :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+
+
+}
+
+
+/* Normal desktop :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+a.dtbtn {
+	font-size: 14px !important;
+	padding: 9px 15px !important;
+}
+.petech_menu > ul > li > a {
+	font-size: 16px !important;
+	margin:30px 6px !important; 
+}
+.owl-prev, .owl-next{
+	display:none;
+}
+.search-box-btn span {
+	height: 0 !important;
+	width: 0 !important;
+	line-height: 0 !important;
+	border: 0 !important;
+	border-radius: 0;
+	margin-right: 20px;
+}
+.header_top_menu_phone::before {
+	width: 228% !important;
+}
+.single_about.mr-70 {
+	margin-right: 20px;
+}
+.about_area .main_title h1, .about_area .main_title h2 {
+	font-size: 43px !important;
+}
+.section_text.bd-left.pr-5 {
+	padding-right: 0 !important;
+}
+.choose_us_icon_inner {
+	bottom: 26px !important;
+	right: 62px !important;
+}
+.single_case_content_inner h4 {
+	font-size: 20px;
+}
+.single_testimonial_content_inner {
+	margin: 0 65px !important;
+}
+.single_content_date {
+    top: 120px !important;
+}
+.single_feature_inner {
+	padding: 55px 20px 40px !important;
+}
+.header_address_content_inner a {
+	font-size: 14px !important
+}
+.single_feature_two_number_inner h1 {
+    font-size: 200px !important;
+}
+.single_feature_two_number_inner {
+    top: -60px !important;
+}
+.row.testi-two.ml-170 {
+    margin: 0;
+}
+.style_two .single_testimonial_content_title h4 {
+    margin-top: 12px;
+}
+.style-three .style2 .search-box-btn span {
+    height: 45px !important;
+    width: 45px !important;
+    line-height: 39px !important;
+}
+.style-three .search-box-btn.search-box-outer {
+    padding-right: 12px;
+}
+.slider5 .slider_dec p {
+    width: 70% !important;
+}
+.single_feature_three {
+    padding: 35px 25px 40px !important;
+}
+.single_service_two {
+    padding: 30px 22px 25px !important;
+}
+.single_service_two_content p {
+    font-size: 15px !important;
+}
+.main_title h1, .main_title h2 {
+    font-size: 45px !important;
+}
+.blog_page_title h4 {
+    font-size: 20px;
+}
+.single_service_three_content h4 {
+    font-size: 21px;
+}
+.active .single_pricing_content {
+    padding: 6px 0 70px !important;
+}
+.single_pricing_content {
+    padding: 6px 0 70px !important;
+}
+.single_price_icon_inner {
+    bottom: -38px !important;
+}
+.single_price_body {
+    padding: 55px 18px 40px !important;
+}
+.blog-left-side .widget ul li a {
+    font-size: 16px !important;
+    padding: 14px 8px !important;
+}
+.single_about_content_inner {
+    overflow: inherit !important;
+}
+}
+
+
+/* Tablet desktop :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.header_top_menu {
+	display: none;
+}
+.slider_text_inner h1 {
+	font-size: 80px !important;
+}
+.slider_text_inner h2 {
+    font-size: 70px !important;
+}
+.single_feature_inner {
+	padding: 65px 20px 50px !important;
+}
+.im_rs_bt {
+	padding-bottom: 24px;
+}
+.about_button.rsp {
+	padding-bottom: 80px;
+}
+.main_title h1, .main_title h2 {
+	font-size: 45px !important;
+}
+.single_testimonial_content_inner {
+	margin: 0 0 !important;
+	padding: 58px 40px !important;
+}
+.rs.pt-115.pb-100 {
+	padding: 64px 0 50px !important;
+}
+.rsp2{
+	padding: 54px 0 70px !important;
+}
+.rsp{
+	padding: 64px 0 50px !important;
+}
+.service_area.rs.pt-115.pb-90 {
+	padding: 64px 0 40px;
+}
+.rs.pt-115.pb-90 {
+	padding: 64px 0 50px;
+}
+.whay_choose_us_area.pb-130 {
+	padding-bottom: 80px;
+}
+.testimonial_area.pb-90 {
+	padding-bottom: 40px;
+}
+.single_service_content {
+	padding: 25px 10px 32px !important;
+}
+.header_middle_menu {
+	display: none;
+}
+.single_mission_shape_inner3 {
+	right: 80px;
+	bottom: 10px;
+}
+.single_mission_shape_inner3 {
+	display: none;
+}
+.single_mission_shape_inner{
+	display: none;
+}
+.single_feature_two_number_inner h1 {
+    font-size: 200px !important;
+}
+.single_feature_two_number_inner {
+    top: -60px !important;
+}
+.team_area.bg.pt-350.pb-90 {
+    padding: 290px 0 45px;
+}
+.row.testi-two.ml-170 {
+    margin: 0;
+}
+.style_two .single_testimonial_content_title h4 {
+    margin-top: 12px;
+}
+.slider5 .slider_dec p {
+    width: 95% !important;
+}
+.single_feature_three {
+    padding: 35px 30px 40px !important;
+}
+.feature_area.style_three {
+    padding-bottom: 50px !important;
+}
+.service_top_bg_area {
+    padding: 64px 0 200px !important;
+}
+.rspb.pb-90 {
+    padding-bottom: 40px;
+}
+.single_team_two_inner {
+    margin-bottom: 90px !important;
+}
+.single_case_study {
+    margin-bottom: 30px;
+}
+.single_case_content {
+    bottom: -50px !important;
+}
+.slider3 {
+    height: 800px !important;
+}
+.slider4 {
+    height: 800px !important;
+}
+.slider1 {
+    height: 800px !important;
+}
+.slider2 {
+    height: 800px !important;
+}
+.style_three .single_about_content {
+    float: none !important;
+}
+}
+
+/* Large Mobile :600px. */
+@media only screen and (min-width: 600px) and (max-width: 767px) {
+.header_top_menu {
+	display: none;
+}
+.slider_text_inner h1,
+.slider_text_inner h2,
+.slider_text_inner h3 {
+	font-size: 60px !important;
+}
+.slider1 {
+	height: 685px !important;
+}
+.slider2 {
+	height: 685px !important;
+}
+.main_title h1, .main_title h2 {
+	font-size: 36px !important;
+}
+.im_rs_bt {
+	padding-bottom: 25px;
+}
+.about_button.rsp {
+	padding-bottom: 100px;
+}
+.single_service_content {
+	padding: 25px 0 32px !important;
+}
+.single_testimonial_content_inner {
+	margin: 0 0 !important;
+	padding: 58px 58px !important;
+}
+.single_content_date {
+    top: 275px !important;
+}
+.rs.pt-115.pb-100 {
+	padding: 64px 0 50px;
+}
+.rs.pt-115.pb-90 {
+	padding: 64px 0 50px;
+}
+.rsp2{
+	padding: 54px 0 70px !important;
+}
+.rsp{
+	padding: 64px 0 50px !important;
+}
+.service_area.rs.pt-115.pb-90 {
+	padding: 64px 0 40px;
+}
+.whay_choose_us_area.pb-130 {
+	padding-bottom: 80px;
+}
+.testimonial_area.pb-90 {
+	padding-bottom: 40px;
+}
+.header_middle_menu {
+	display: none;
+}
+.slider3 {
+	height: 620px !important;
+}
+.slider4 {
+    height: 620px !important;
+}
+.single_mission_shape_inner3 {
+	display: none;
+}
+.single_feature_two_number_inner h1 {
+    font-size: 200px !important;
+}
+.single_feature_two_number_inner {
+    top: -60px !important;
+}
+.team_area.bg.pt-350.pb-90 {
+    padding: 290px 0 45px;
+}
+.row.testi-two.ml-170 {
+    margin: 0;
+}
+.style_two .single_testimonial_content_title h4 {
+    margin-top: 12px;
+}
+.slider5 .slider_text_inner h1, .slider_text_inner h2, .slider_text_inner h3 {
+    font-size: 45px !important;
+}
+.slider5 .slider_dec p {
+    width: 96% !important;
+}
+.feature_area.style_three {
+    padding-bottom: 50px !important;
+}
+.service_top_bg_area {
+    padding: 64px 0 200px !important;
+}
+.rspb.pb-90 {
+    padding-bottom: 40px;
+}
+.single_team_two_inner {
+    margin-bottom: 90px !important;
+}
+.single_case_study {
+    margin-bottom: 30px;
+}
+.single_case_content {
+    bottom: -50px !important;
+}
+.single_testimonial_three {
+    padding: 30px 10px;
+}
+.breatcome_title_inner h2 {
+    font-size: 60px !important;
+}
+.breatcome_area {
+    height: 450px !important;
+}
+.single_pricing_content {
+    padding: 76px 0 112px !important;
+}
+.active .single_pricing_content {
+    padding: 76px 0 112px !important;
+}
+.single_price_icon_inner {
+    bottom: 50px !important;
+    left: 112px !important;
+}
+.feature-top-shape-inner {
+    display:none;
+}
+.style_three .single_about_content {
+    float: none !important;
+}
+.footer_middle_socail_menu {
+    text-align: left !important;
+    margin-top: 35px;
+}
+}
+
+
+
+/* small mobile :320px. */
+@media only screen and (min-width: 320px) and (max-width: 599px) {
+.header_top_menu {
+	display: none;
+}
+.slider_text_inner h3 {
+	font-size: 40px !important;
+}
+.slider_text_inner h1 {
+	font-size: 35px !important;
+}
+.slider_text_inner h2 {
+	font-size: 32px !important;
+}
+.slider_button .button .active {
+	display: none;
+}
+.slider1 {
+	height: 540px !important;
+}
+.slider2 {
+	height: 540px !important;
+}
+.main_title h1, .main_title h2 {
+	font-size: 32px !important;
+}
+.im_rs_bt {
+	padding-bottom: 24px;
+}
+.about_button.rsp {
+	padding-bottom: 100px;
+}
+.feature-top-shape-inner {
+    display:none;
+}
+.single_about.ml-50.mr-70 {
+	margin: 0;
+}
+.choose_us_icon_inner {
+	bottom: 20px !important;
+	right: 0 !important;
+}
+.choose_us_icon_inner span {
+	height: 160px !important;
+	width: 160px !important;
+	font-size: 70px !important;
+	line-height: 160px !important;
+}
+.choose_us_icon_inner span::after {
+	height: 170px !important;
+	width: 170px !important;
+}
+.single_testimonial_content_inner {
+	margin: 0 !important;
+	padding: 60px 20px !important;
+}
+.single_testimonial {
+	padding: 13px !important;
+}
+.single_content_date {
+    top: 120px !important;
+}
+.rs.pt-115.pb-100 {
+	padding: 64px 0 50px;
+}
+.rs.pt-115.pb-90 {
+	padding: 64px 0 50px;
+}
+.rsp2{
+	padding: 54px 0 70px !important;
+}
+.rsp{
+	padding: 64px 0 50px !important;
+}
+.service_area.rs.pt-115.pb-90 {
+	padding: 64px 0 40px;
+}
+.whay_choose_us_area.pb-130 {
+	padding-bottom: 80px;
+}
+.testimonial_area.pb-90 {
+	padding-bottom: 40px;
+}
+.header_middle_menu {
+	display: none;
+}
+.slider3 {
+	height: 500px !important;
+}
+.slider4 {
+    height: 500px !important;
+}
+.single_mission_shape_inner3 {
+	display: none;
+}
+.single_mission_shape_inner{
+	display: none;
+}
+.single_mission_thumb {
+    float: inherit !important;
+    margin-right: 0 !important;
+}
+.single_mission_vision_thumb_inner img {
+    width: 100%;
+}
+li.nav-item.mission-tab.mr-5 {
+    margin-bottom: 30px;
+}
+#scrollUp {
+    height: 50px !important;
+    line-height: 52px !important;
+    right: 20px !important;
+    width: 50px !important;
+}
+.single_feature_two_number_inner h1 {
+    font-size: 200px !important;
+}
+.single_feature_two_number_inner {
+    top: -60px !important;
+}
+.button .style3 {
+    display: none;
+}
+.team_area.bg.pt-350.pb-90 {
+    padding: 290px 0 45px;
+}
+.row.testi-two.ml-170 {
+    margin: 0;
+}
+.style_two .single_testimonial_bold_text p {
+    font-size: 19px !important;
+    line-height: 28px !important;
+}
+.style_two .single_testimonial_content_title h4 {
+    font-size: 18px;
+    margin-top: 15px;
+}
+.slider5 .slider_text_inner h2 {
+    font-size: 29px !important;
+}
+.slider5 .slider_dec p {
+    width: 100% !important;
+}
+.slider5 {
+    height: 610px !important;
+}
+.slider6 {
+    height: 610px !important;
+}
+.row.mar-t {
+    margin-top: -65px !important;
+}
+.single_feature_three {
+    padding: 30px 30px 35px !important;
+}
+.feature_area.style_three {
+    padding-bottom: 50px !important;
+}
+.service_top_bg_area {
+    padding: 64px 0 200px !important;
+}
+.rspb.pb-90 {
+    padding-bottom: 40px;
+}
+.single_team_two_inner {
+    margin-bottom: 90px !important;
+}
+.single_case_study {
+    margin-bottom: 30px;
+}
+.single_case_content {
+    bottom: -50px !important;
+}
+.blog_page_title h4 {
+    font-size: 20px !important;
+}
+.single_testimonial_three {
+    padding: 30px 10px;
+}
+.breatcome_title_inner h2 {
+    font-size: 55px !important;
+}
+.breatcome_area {
+    height: 420px !important;
+}
+.blog_details_top_title h2 {
+    font-size: 21px !important;
+}
+.blog_details_top_title h4 {
+    font-size: 21px;
+}
+.blog_dtl_content h3 {
+    font-size: 21px;
+}
+.blog_details_author_content h4 {
+    font-size: 21px;
+}
+.blog_details_author_thumb img {
+    margin-bottom: 20px;
+}
+.blog_comments_section h3 {
+    font-size: 21px;
+}
+.blog-left-side .widget h2 {
+    font-size: 21px;
+}
+.blog-left-side .widget ul li a {
+    font-size: 16px !important;
+        padding: 15px 16px !important;
+}
+.single_testimonial_thumb_style2_inner img {
+	width: 100%;
+}
+.style_three .single_about_content {
+    float: none !important;
+}
+.single_it_work_inner {
+    padding: 15px 16px 36px !important;
+}
+.asked_question_area .single_accordion {
+    padding: 25px 25px 25px !important;
+}
+.footer_middle_socail_menu_inner a {
+    height: 45px !important;
+    width: 45px !important;
+    line-height: 45px !important;
+    font-size: 17px !important;
+}
+/*.footer_middle_socail_menu {
+    text-align: left !important;
+    margin-top: 35px;
+}*/
+}
+
+
